@@ -1,0 +1,19 @@
+extensions:
+ES7+ React/Redux
+JavaScript and TypeScript Nightly
+Tailwind CSS IntelliSense
+
+npx create-next-app@13.4   (@latest for future projects)
+
+TypeScript - Yes
+ESLint - Yes
+Tailwind CSS - Yes
+src/ directory - No
+AppRouter - Yes
+customize default import alais? - No
+
+cd next-app
+npm run dev
+
+install daisyui
+
